@@ -1,16 +1,23 @@
-- 👋 Hi, I’m @Kuria-FelixM 
+# Welcome to My Portfolio Repository
 
-Welcome to my GitHub profile! I'm a passionate programmer with a love for crafting clean, efficient, and creative solutions to complex problems. With a diverse skill set and a hunger for learning, I'm constantly exploring new technologies and expanding my knowledge.
+![Software Development, Data Analysis, Data Science]
+
+## Overview
+
+- 👋 Hi, I’m @Kuria-FelixM
+-
+- Welcome to my GitHub repository! Here you'll find a collection of projects showcasing my skills in software development, data analysis, and data science. From front-end web development to back-end applications and insightful data analyses, this portfolio reflects my passion for creating meaningful and impactful solutions.  I'm constantly exploring new technologies and expanding my knowledge.
+
+## Skills
+
+### Software Development
+
+- **Front-end Technologies**: HTML, CSS, Bootstrap, JavaScript
+- **Back-end Technologies**: PHP
+
+### Data Analysis & Data Science
+
+- **Data Analysis**: Exploring datasets, deriving insights, and visualizing data
+- **Machine Learning**: Building models, predictive analytics, and classification algorithms
 
 
-- 👀 I’m interested in Front end backend
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kuria-FelixM/Kuria-FelixM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
